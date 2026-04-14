@@ -1,6 +1,5 @@
 ## It's AK👋
 
-# 💫 About Me:
 🚀 Exploring, building, evolving
 
 
