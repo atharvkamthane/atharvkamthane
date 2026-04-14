@@ -16,10 +16,4 @@
 - [Aegisscan](https://github.com/abhij3et/Aegisscan)
 - [SchemaSense3D](https://github.com/LearnerSanket24/SchemaSense3D)
 
-  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atharvkamthane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=atharvkamthane&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvkamthane&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
